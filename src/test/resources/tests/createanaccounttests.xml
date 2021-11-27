@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="CreateAnAccount Test">
+    <test name="CreateAnAccount">
+        <classes>
+            <class name="com.automationpractise.tests.acounttests.CreateAnAccountTests">
+            </class>
+            <class name="com.automationpractise.tests.dataproviders.EndToEndDataProviderTests"/>
+        </classes>
+    </test>
+</suite>
