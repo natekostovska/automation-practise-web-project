@@ -3,7 +3,7 @@
 Automation end-to end testing on automation practice page (Page Object Model)
 
 # Technologies/Tools used:
-*
+
 *1. Java
 *2. Maven
 *3. TestNG
